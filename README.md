@@ -1,6 +1,10 @@
 # Pizzeria-Data-Analysis
 
+<<<<<<< HEAD
 <img src="https://uploads.metropoles.com/wp-content/uploads/2023/08/09145143/Pizza-31.jpg" width="300" >
+=======
+<img src="https://uploads.metropoles.com/wp-content/uploads/2023/08/09145143/Pizza-31.jpg" width="300">
+>>>>>>> 7c04ad389c4e579419db9d029cd98fc41015db33
 
 O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo uso das ferramentas MySQL e Tableau. A análise se concentra em identificar tendências, padrões e insights nos dados de vendas, abrangendo aspectos como o desempenho ao longo do tempo, preferências dos clientes, sazonalidade e produtos mais populares do menu. O objetivo central é fornecer informações acionáveis que possam auxiliar a pizzaria na otimização de suas operações e no aumento do sucesso no mercado de alimentos.
 
