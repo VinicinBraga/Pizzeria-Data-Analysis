@@ -6,7 +6,7 @@ O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo us
 
 ## Tableau
 
-[DashboardTableau](https://public.tableau.com/views/Pizzeria_Analysis/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)<img src="https://static.wixstatic.com/media/d66770_e819f6719ce743f6b1b4829bb95a6df8~mv2.gif" width="50"> 
+[Dashboard-Tableau](https://public.tableau.com/views/Pizzeria_Analysis/Painel1?:language=pt-BR&:display_count=n&:origin=viz_share_link)<img src="https://static.wixstatic.com/media/d66770_e819f6719ce743f6b1b4829bb95a6df8~mv2.gif" width="50"> 
 
 ## Estrutura do Repositório
 
