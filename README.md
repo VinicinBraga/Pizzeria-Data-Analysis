@@ -11,7 +11,6 @@ O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo us
 ## Estrutura do Repositório
 
 ```bash
-Challenges
 ├── DATA/
     ├── data_base
     ├── data_cleaned
