@@ -18,6 +18,7 @@ Challenges
 ├── Problem Statement
     ├── KPI's(SQL)
     ├── Charts Requirement(SQL)
+    ├── README(KPI's)
 ```
 
 ## Contribuições
