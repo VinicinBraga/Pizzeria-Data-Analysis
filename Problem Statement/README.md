@@ -34,5 +34,5 @@ Criar um gráfico de funil que apresente o número total de pizzas vendidas para
 * 6.Top 5 Mais Vendidos por Receita, Quantidade Total e Total de Pedidos:
 Criar um gráfico de barras destacando as 5 pizzas mais vendidas com base na Receita, Quantidade Total e Total de Pedidos. Este gráfico nos ajudará a identificar as opções de pizza mais populares.
 
-* 7. Menos Vendidos por Receita, Quantidade Total e Total de Pedidos:
+* 7.Menos Vendidos por Receita, Quantidade Total e Total de Pedidos:
 Criar um gráfico de barras que apresente as 5 pizzas com pior desempenho em termos de Receita, Quantidade Total e Total de Pedidos. Este gráfico nos permitirá identificar opções de pizza com baixo desempenho ou menos populares.
