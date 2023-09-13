@@ -6,7 +6,9 @@ O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo us
 
 ## Tableau
 
-[Dashboard-Tableau](https://public.tableau.com/app/profile/vin.cius.braga.matta/viz/Pizzeria_Analysis/Painel1#1)<img src="https://static.wixstatic.com/media/d66770_e819f6719ce743f6b1b4829bb95a6df8~mv2.gif" width="50"> 
+<img src="./images/DASHBOARD.png" width="300"> 
+
+[Dashboard-Tableau](https://public.tableau.com/app/profile/vin.cius.braga.matta/viz/Pizzeria_Analysis/Painel1#1) 
 
 ## Estrutura do Repositório
 
