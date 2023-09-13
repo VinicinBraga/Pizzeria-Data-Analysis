@@ -8,7 +8,7 @@ O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo us
 
 
 
-[<img src="./images/DASHBOARD.png" width="500"> ](https://public.tableau.com/app/profile/vin.cius.braga.matta/viz/Pizzeria_Analysis/Painel1#1) 
+[<img src="./images/DASHBOARD.png" width="700"> ](https://public.tableau.com/app/profile/vin.cius.braga.matta/viz/Pizzeria_Analysis/Painel1#1) 
 
 ## Estrutura do Repositório
 
