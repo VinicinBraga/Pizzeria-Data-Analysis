@@ -6,13 +6,14 @@ O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo us
 
 ## Tableau
 
-<img src="./images/DASHBOARD.png" width="300"> 
 
-[Dashboard-Tableau](https://public.tableau.com/app/profile/vin.cius.braga.matta/viz/Pizzeria_Analysis/Painel1#1) 
+
+[<img src="./images/DASHBOARD.png" width="500"> ](https://public.tableau.com/app/profile/vin.cius.braga.matta/viz/Pizzeria_Analysis/Painel1#1) 
 
 ## Estrutura do Repositório
 
 ```bash
+
 ├── DATA/
     ├── data_base
     ├── data_cleaned
@@ -20,6 +21,7 @@ O projeto envolve uma análise abrangente das vendas de uma pizzaria, fazendo us
     ├── KPI's(SQL)
     ├── Charts Requirement(SQL)
     ├── README(KPI's)
+
 ```
 
 ## Contribuições
